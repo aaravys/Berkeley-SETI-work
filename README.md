@@ -1,5 +1,15 @@
 
+**what is this scrpit about?**
+
 This script is about being able to interpret data signals from a signal that is 14.6 billion miles away. Isn't that wonderful? 
-Code like this is not only able to interpret data from the Voyager 1, but it is also able to aid scientists, potentially like myself, to be able to interpret important radio signals(in this case, from the Voyager 1). 
-For the future of scientis, the brilliance of this code enables them to percieve radio signals from deep in space. Code like this will be used in the future to interpret signals from a possible ET.
-People who visit this code should take a minute to be aware of how awesome it is that we are able to percieve these deep space messages from our own personal computer. 
+This script allows a user to interpret radio information from the voyager 1, although this code has many more practical uses.
+
+**My future regarding this code**
+
+As an aspiring scientist at Berkeley SETI, using radio telescopes and interpreting radio signals are absolutely nessecary skills to have. 
+This code is a vital stepping stone/foundation to my future as a scientist. It will help me navigate the mysteries of deep space that are hidden in radio signals. 
+
+**For people visiting**
+
+This code will aid you. Not only is it fun to play around with and experiment, it is a great foundation if, like me, you want to be a part of SETI. It is a useful 
+script, and I advise you to learn the ins and outs of it if you want to begin working with radios.
